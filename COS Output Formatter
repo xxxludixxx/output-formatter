@@ -1,0 +1,36 @@
+----------------------------------   COS OUTPUT FORMATTER DOCUMENTATION   ----------------------------------------------
+
+This module was created in order to enable output formatting in 'Creatuity on Steroids' framework.
+
+Functionalities:
+
+0. Creatuity State Machine - a general states tracking tool.
+1. Font formatting:
+    A. Weight.
+    B. Color.
+    C. Basic text alignment - Left, Center, Right.
+    D. Background colors.
+2. Multiline strings operations. #todo
+3. Predefined styles:
+    A. Indention and indention level. #todo
+    B. Ordered and unordered lists. List level. #todo
+    C. Sections with given header, content, columns etc. #todo
+
+========================================================================================================================
+
+Ujednolicenie frameworka: #todo
+        fmtX.print ?
+        fmtX.open ?
+        fmtX.close ?
+
+
+
+        functon fmtX.print() {
+            local co;
+            local jak;
+            local txt;
+
+             fmtX.open co jak
+             echo txt
+             fmtX.close co
+        }
