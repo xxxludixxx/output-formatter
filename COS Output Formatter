@@ -17,20 +17,3 @@ Functionalities:
     C. Sections with given header, content, columns etc. #todo
 
 ========================================================================================================================
-
-Ujednolicenie frameworka: #todo
-        fmtX.print ?
-        fmtX.open ?
-        fmtX.close ?
-
-
-
-        functon fmtX.print() {
-            local co;
-            local jak;
-            local txt;
-
-             fmtX.open co jak
-             echo txt
-             fmtX.close co
-        }
